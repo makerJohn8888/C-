@@ -1,0 +1,4 @@
+﻿  test—4.20.c
+D:\VS2022\c-project\Project——4.20\Project——4.20\test—4.20.c(117,2): warning C4013: “gets”未定义；假设外部返回 int
+D:\VS2022\c-project\Project——4.20\Project——4.20\test—4.20.c(121,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Project——4.20.vcxproj -> D:\VS2022\c-project\Project——4.20\x64\Debug\Project——4.20.exe
