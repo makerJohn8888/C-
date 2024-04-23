@@ -1,0 +1,4 @@
+﻿  test.c
+D:\VS2022\c-project\Project___4.22\Project___4.22\test.c(204,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+D:\VS2022\c-project\Project___4.22\Project___4.22\test.c(208,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+  Project___4.22.vcxproj -> D:\VS2022\c-project\Project___4.22\x64\Debug\Project___4.22.exe
