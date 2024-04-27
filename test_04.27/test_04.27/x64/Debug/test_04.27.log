@@ -1,0 +1,3 @@
+﻿  test.c
+D:\VS2022\c-project\test_04.27\test_04.27\test.c(115,1): warning C4716: “calc”: 必须返回一个值
+  test_04.27.vcxproj -> D:\VS2022\c-project\test_04.27\x64\Debug\test_04.27.exe
