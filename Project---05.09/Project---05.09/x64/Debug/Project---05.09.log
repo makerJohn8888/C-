@@ -1,0 +1,42 @@
+﻿  test.c
+D:\VS2022\c-project\Project---05.09\Project---05.09\test.c(44,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\VS2022\c-project\Project---05.09\Project---05.09\test.c(44,9):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\VS2022\c-project\Project---05.09\Project---05.09\test.c(45,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\VS2022\c-project\Project---05.09\Project---05.09\test.c(45,9):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\VS2022\c-project\Project---05.09\Project---05.09\test.c(46,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\VS2022\c-project\Project---05.09\Project---05.09\test.c(46,9):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\VS2022\c-project\Project---05.09\Project---05.09\test.c(47,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\VS2022\c-project\Project---05.09\Project---05.09\test.c(47,9):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\VS2022\c-project\Project---05.09\Project---05.09\test.c(48,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\VS2022\c-project\Project---05.09\Project---05.09\test.c(48,9):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\VS2022\c-project\Project---05.09\Project---05.09\test.c(49,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\VS2022\c-project\Project---05.09\Project---05.09\test.c(49,9):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\VS2022\c-project\Project---05.09\Project---05.09\test.c(50,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\VS2022\c-project\Project---05.09\Project---05.09\test.c(50,9):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\VS2022\c-project\Project---05.09\Project---05.09\test.c(51,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\VS2022\c-project\Project---05.09\Project---05.09\test.c(51,9):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\VS2022\c-project\Project---05.09\Project---05.09\test.c(52,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\VS2022\c-project\Project---05.09\Project---05.09\test.c(52,9):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\VS2022\c-project\Project---05.09\Project---05.09\test.c(53,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\VS2022\c-project\Project---05.09\Project---05.09\test.c(53,9):
+  请考虑在格式字符串中使用“%zd”
+  
+  Project---05.09.vcxproj -> D:\VS2022\c-project\Project---05.09\x64\Debug\Project---05.09.exe
